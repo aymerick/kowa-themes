@@ -1,6 +1,8 @@
 [submodule "ailes"]
 	path = ailes
 	url = git@github.com:aymerick/kowa-ailes.git
+	branch = master
 [submodule "willy"]
 	path = willy
 	url = git@github.com:aymerick/kowa-willy.git
+	branch = master
